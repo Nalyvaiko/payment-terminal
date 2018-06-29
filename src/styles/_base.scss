@@ -63,7 +63,7 @@ h2 {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    align-items: center;
+    align-items: flex-start;
 
     .operator-item {
       margin: 0;
