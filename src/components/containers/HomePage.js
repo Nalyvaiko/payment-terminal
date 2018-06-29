@@ -7,7 +7,7 @@ import * as actions from '../../actions/operatorActions';
 import Operators from '../Operators';
 import Loader from '../common/Loader';
 
-class HomePage extends React.Component {
+export class HomePage extends React.Component {
   componentDidMount() {
     this.props.actions.loadOperators();
   }
