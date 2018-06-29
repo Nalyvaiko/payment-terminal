@@ -1,8 +1,11 @@
 # React payment terminal prototype
 
-    `const func = (s, a, b) => Math.max(s.indexOf(a), s.indexOf(b));`
+  Task 1:
+    const func = (s, a, b) => Math.max(s.indexOf(a), s.indexOf(b));
 
 ## Get Started
+  
+  Task 2:
 
 1. **Clone the project**
 
