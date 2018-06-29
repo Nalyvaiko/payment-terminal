@@ -1,11 +1,16 @@
 # React payment terminal prototype
 
   Task 1:
-    `const func = (s, a, b) => Math.max(s.indexOf(a), s.indexOf(b));`
+
+  a) `const func = (s, a, b) => Math.max(s.indexOf(a), s.indexOf(b));`
+
+  OR
+
+  b) `const func = (s, a, b) => s.length > 0 ? Math.max(s.indexOf(a), s.indexOf(b)) : null;`
+
+  Task 2:
 
 ## Get Started
-  
-  Task 2:
 
 1. **Clone the project**
 
@@ -21,9 +26,9 @@
 
 ## Technologies used
 
-    **React**
-    **Redux**
-    **React Router**
-    **Webpack**
-    **Jest**
-    **Enzyme**
+  **React**
+  **Redux**
+  **React Router**
+  **Webpack**
+  **Jest**
+  **Enzyme**
