@@ -20,7 +20,7 @@
 
     `npm install`
 
-3. **Run the example app**
+3. **Run app**
 
     `npm start -s`
 
