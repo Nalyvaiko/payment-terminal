@@ -1,12 +1,8 @@
 import React from 'react';
-import { mount, shallow } from 'enzyme';
-import configureMockStore from 'redux-mock-store';
-import { Provider } from 'react-redux';
-import { create } from 'react-test-renderer';
+import { shallow } from 'enzyme';
 
-import ConnectedHomePage, { HomePage } from './HomePage';
+import { HomePage } from './HomePage';
 import Operators from '../Operators';
-import initialState from '../../reducers/initialState';
 
 
 describe('<HomePage />', () => {
